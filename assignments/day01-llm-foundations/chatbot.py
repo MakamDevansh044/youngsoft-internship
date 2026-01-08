@@ -1,15 +1,15 @@
 import os
 from dotenv import load_dotenv
-import google.generativeai as genai
+from google import genai
 
 # Load environment variables
 load_dotenv()
 
-# Configure Gemini API
-genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
+# Create Gemini client
+client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 
-# Initialize model
-model = genai.GenerativeModel("gemini-2.5-flash")
+# Choose model
+MODEL_NAME = "gemini-2.5-flash"
 
 def chat():
     print("🤖 Gemini LLM Chatbot (type 'exit' to quit)\n")
@@ -21,7 +21,6 @@ def chat():
             print("👋 Exiting chatbot.")
             break
 
-        # Clean prompt formatting
         prompt = f"""
 You are a helpful, concise AI assistant.
 
@@ -31,12 +30,15 @@ User question:
 Answer clearly and briefly.
 """
 
-        response = model.generate_content(prompt)
+        response = client.models.generate_content(
+            model=MODEL_NAME,
+            contents=prompt
+        )
 
         # Output
         print("\nAssistant:", response.text)
 
-        # Token usage (if available)
+        # Token usage (available in new SDK)
         if response.usage_metadata:
             print("\n--- Token Usage ---")
             print(f"Prompt Tokens: {response.usage_metadata.prompt_token_count}")
