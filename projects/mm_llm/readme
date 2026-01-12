@@ -1,0 +1,87 @@
+# ➕ How to Add a New Model
+
+This project uses a **plugin-based model system**.  
+To add a new model, follow these steps.
+
+---
+
+## 1️⃣ Create a model file
+
+Create a new file inside the `models/` folder.
+
+Example:
+models/my_model.py
+
+python
+Copy code
+
+---
+
+## 2️⃣ Write the model class
+
+Your model file **must look like this**:
+
+```python
+from core.base_model import BaseModel
+from core.registry import register_model
+
+class MyModel(BaseModel):
+    name = "my-model"   # unique model name
+
+    def load(self):
+        # load weights OR connect to API here
+        print("MyModel loaded")
+
+    def generate(self, prompt: str) -> str:
+        # take prompt and return text
+        return f"Response: {prompt}"
+
+# REQUIRED: register the model
+register_model(MyModel)
+3️⃣ Import the model (MANDATORY)
+Add your model import in:
+
+bash
+Copy code
+models/__init__.py
+Example:
+
+python
+Copy code
+from models.my_model import MyModel
+⚠️ If you skip this step, the model will NOT appear.
+
+4️⃣ Run the app
+From project root:
+
+bash
+Copy code
+python -m app.main
+Your model will now appear in the selection list.
+
+✅ Checklist
+ File created in models/
+
+ Inherits BaseModel
+
+ Has unique name
+
+ Implements load() and generate()
+
+ Calls register_model()
+
+ Imported in models/__init__.py
+
+Done ✅
+
+yaml
+Copy code
+
+---
+
+If you want, next I can:
+- Convert this to **auto-discovery (no manual import)**
+- Give a **Gemini / HF / Ollama template**
+- Add **streaming version**
+
+Just say 👍
