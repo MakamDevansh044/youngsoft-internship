@@ -1,17 +1,14 @@
-# crete venv
+## Crete venv
 
 python -m venv .venv
 
-#to set venv :
+## Activate :
 
 .\.venv\Scripts\Activate.ps1
 
-#upgrade pip inside env
+## Daily Workflow
 
-python -m pip install --upgrade pip
-
-
-
-pip install -r requirements.txt
-
-hhjh
+git add .
+git commit -m "message"
+git push company main
+git push origin main
