@@ -1,0 +1,316 @@
+Infosys
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+Appearance hide
+Text
+
+Small
+
+Standard
+
+Large
+Width
+
+Standard
+
+Wide
+Color (beta)
+
+Automatic
+
+Light
+
+Dark
+From Wikipedia, the free encyclopedia
+Infosys Limited
+Infosys Logo
+Infosys Pyramid
+Headquarters in Bengaluru
+Formerly	Infosys Consultants (1981–1992)
+Infosys Technologies (1992–2011)[1]
+Company type	Public
+Traded as	
+BSE: 500209
+NSE: INFY
+NYSE: INFY
+BSE SENSEX constituent
+NSE NIFTY 50 constituent
+ISIN	INE009A010321
+Industry	Information technology Consulting
+Outsourcing
+Founded	2 July 1981; 44 years ago in Pune, India
+Founders	
+N. R. Narayana Murthy
+Nandan Nilekani
+Kris Gopalakrishnan
+S. D. Shibulal
+K. Dinesh
+N. S. Raghavan
+Ashok Arora
+Headquarters	Bengaluru, Karnataka, India
+Area served	Worldwide
+Key people	Nandan Nilekani (Chairman)
+Salil Parekh (MD & CEO)[2]
+Products	
+FinaclePanaya
+Revenue	Increase ₹166,590 crore (US$20 billion) (2025)
+Operating income	Increase ₹37,608 crore (US$4.4 billion) (2025)
+Net income	Increase ₹26,750 crore (US$3.2 billion) (2025)
+Total assets	Increase ₹148,903 crore (US$18 billion) (2025)
+Total equity	Increase ₹96,203 crore (US$11 billion) (2025)
+Number of employees	323,578 (March 2025)[3]
+Divisions	
+Infosys Consulting
+Infosys BPM
+EdgeVerve Systems
+Website	infosys.com
+Footnotes / references
+Financials as of 31 March 2025.[4]
+Infosys Limited is an Indian multinational technology company that offers information technology, business consulting, and outsourcing services. Founded in 1981 by seven engineers, the company is headquartered in Bengaluru and considered one of the Big Six Indian IT companies.
+
+Infosys has also attracted controversies due to allegations of visa and tax fraud in the United States and for creating malfunctioning government websites.
+
+History
+Infosys was founded by N. R. Narayana Murthy, Nandan Nilekani, Kris Gopalakrishnan, S. D. Shibulal, K. Dinesh, N. S. Raghavan, and Ashok Arora, with an initial capital of $250.[5] It was incorporated as Infosys Consultants Private Limited in Pune on 2 July 1981,[6] before relocating to Bangalore in 1983.[7] Arora left the company in 1989 and sold his shares to the other co-founders.[8]
+
+In the 1980s, Infosys briefly made hardware products like electronic telex machines and keyboard concentrators.[9][10] Its core business of offshore custom software development witnessed growth after the 1991 economic liberalisation of India.[11]
+
+In February 1993, Infosys launched its initial public offering (IPO) with an offer price of ₹95 per share. The IPO was initially undersubscribed but was "bailed out" by US investment bank Morgan Stanley, which acquired a 13% equity stake at the offer price.[12] When trading began in June 1993, the share price opened at ₹145 per share.[13]
+
+Infosys released its banking automation software package Bancs2000 in 1994,[14] middleware architecture product Entark in 1995,[15] and Y2K problem toolset "In2000" a year later.[16] In the mid to late 1990s, Infosys also incubated software product subsidiaries like e-fulfillment and WMS software provider Yantra, and mobile VAS developer OnMobile, which were subsequently spun off and divested.[15]
+
+Infosys listed its American depositary receipts (ADRs) on Nasdaq in March 1999, making it the first Indian company to be listed on Nasdaq.[17] Infosys was then among the top 20 companies by market capitalization on the Nasdaq.[12] The ADR listing was later transferred to NYSE Euronext to provide European investors with better access to the company's shares.[18]
+
+In 1999, Infosys rolled out Finacle, a core banking software suite developed as the successor to Bancs2000.[19][14] The same year, Infosys started its research and innovation arm called SETLabs (later renamed Infosys Labs). In 2004, SETLabs formed an intellectual property (IP) cell; Infosys was reported to be earning about 10% of its total revenue from patent pending IP assets in 2006.[20][21]
+
+In 2002, Infosys created a business process management division called Progeon (now Infosys BPM), with Citigroup taking a minority stake in the venture for $20 million.[22] In 2004, Infosys established a wholly owned consulting subsidiary called Infosys Consulting, based in Fremont, California.[23] In 2006, Infosys bought out Citigroup's entire 23% stake in Progeon for $115 million.[24]
+
+
+Infosys, Bengaluru
+In 2009, Infosys set up a subsidiary, Infosys Public Services, based in Rockville, Maryland, with a focus on federal and state government projects in the US, Canada, and the UK.[25] In 2012, Infosys opened its 18th US office, in Milwaukee, primarily to serve Harley-Davidson; the company also announced having hired over 1,200 employees in the US in 2011 and an additional 2,000 employees in 2012.[26]
+
+In July 2014, Infosys established an enterprise software products subsidiary named EdgeVerve Systems, with products in business operations, customer service, procurement, and commerce network domains.[27] In August 2015, Infosys transferred assets of Finacle to EdgeVerve Systems.[28]
+
+In 2015, Infosys launched the $500 million Infosys Innovation Fund to invest in early-stage startups focused on emerging and deep tech,[29] including a $250 million allocation for Indian startups.[30]
+
+In 2018, Infosys formed a Singapore-based 60:40 joint venture with Temasek Holdings known as Infosys Compaz (iCompaz), serving clients in the Southeast Asian markets.[31][32]
+
+On 24 August 2021, Infosys became the fourth Indian company to achieve a market capitalization of US$100 billion.[33]
+
+Services and products
+Infosys offers software development, maintenance, and independent validation services across industries such as finance, insurance, manufacturing, among others.[34] Through its subsidiary Infosys Consulting, it provides consulting services in digital experience, cloud,[35] data analytics, artificial intelligence, engineering,[36] and sustainability.[37] Its subsidiary Infosys BPM provides outsourcing services for business processes such as finance, procurement, customer service, and HR.[38]
+
+Infosys offers digital products and platforms for digital transformation, including digital banking software Finacle, application delivery platform Panaya, digital commerce platform Infosys Equinox, workplace platform Infosys Meridian, and customer engagement platform Infosys Cortex.[39][40] It also provides sets of services and platforms in domains such as cloud with Cobalt,[41] generative AI with Topaz,[42] and AI marketing with Aster.[43]
+
+Acquisitions
+See also: Infosys BPM § Acquisitions
+Name	Based in	Acquisition cost	Acquisition date	Business
+Expert Information Services	Australia	$23 million	Dec 2003[44]	IT services
+Gen-i Software	New Zealand	Undisclosed	Jun 2011[45]	Software consulting
+Lodestone Holding	Switzerland	$345 million	Sep 2012[46]	Management consultancy
+Panaya	Israel	$200 million	Mar 2015[47]	Automation technology
+Skava (Kallidus)	United States	$120 million	Apr 2015[48]	Digital experience solutions
+Noah Consulting	United States	$70 million	Nov 2015[49]	Information management consulting services
+Skytree	United States	Undisclosed	Apr 2017[50]	Machine learning
+Brilliant Basics	United Kingdom	£7.5 million	Aug 2017[51]	Product design and customer experience
+Fluido Oy	Finland	€65 million	Oct 2018[52]	Salesforce advisor and consulting partner
+WongDoody	United States	$75 million	Jan 2019[53]	Advertising and creative strategy services
+Stater N.V.	Netherlands	€127.5 million	Apr 2019[54]	Mortgage services
+Simplus	United States	$250 million	Feb 2020[55]	Salesforce consulting
+Kaleidoscope	United States	$42 million	Sep 2020[56]	Product design and development
+GuideVision	Czech Republic	€30 million	Sep 2020[57]	ServiceNow partner
+Blue Acorn iCi	United States	$125 million	Oct 2020[58]	Digital transformation
+Carter Digital	Australia	Undisclosed	Jan 2021[59]	Design agency
+Oddity	Germany	€50 million	Mar 2022[60]	Digital marketing
+BASE life science	Denmark	€110 million	Jul 2022[61]	Life science consulting and technology
+InSemi	India	₹280 crore	Jan 2024[62]	Semiconductor design services
+in-tech	Germany	€450 million	Apr 2024[63]	Engineering R&D services
+MRE Consulting	United States	$36 million	Apr 2025[64]	Consulting
+The Missing Link	Australia	A$98 million	Apr 2025[64]	Cybersecurity and cloud services
+Listing and shareholding pattern
+
+Main block in the Chennai campus
+In India, Infosys shares are listed on the BSE, where it is a part of the BSE SENSEX, and on the NSE, where it is included in the NIFTY 50 index.[65] Infosys also trades its shares through American depositary receipts (ADRs) on the New York Stock Exchange.[66]
+
+Over the years, the shareholding of Infosys's promoters has steadily decreased. This trend began in June 1993, when Infosys first listed its shares on the BSE. The promoter shareholding further declined when Infosys instated employee stock option scheme in 1993 and listed ADRs on Nasdaq on 11 March 1999.[17] The Life Insurance Corporation of India is the biggest shareholder in Infosys.[67]
+
+
+A building in Thiruvananthapuram campus
+Infosys shareholding and stakeholders pattern (as of 31 March 2024)[68]
+Shareholders	Shareholding
+Promoters group	14.61%
+Foreign institutional investors (FII)	32.74%
+Domestic institutional investors (DII)	37.59%
+Public	14.81%
+Others	 0.25%
+Total	100.00%
+Operations
+Geographical presence
+
+Glass building in Pune campus
+As of 31 March 2024, Infosys operates 94 sales and marketing offices and 139 development centers globally. The company's operations are spread across key regions, including India, the United States, Canada, China, Australia, Japan, the Middle East, and Europe.[69]
+
+In the fiscal year 2023-24, Infosys generated approximately 61% of its revenue from North America, 25% from Europe, 3% from India, and 11% from other regions, including the Middle East, Australia, and Japan.[70]
+
+Infosys faced scrutiny over its continued operations in Moscow following Russia's invasion of Ukraine in February 2022. The company clarified that it had no active business with Russian firms.[71][72] By November 2022, only administrative staff remained, handling the transfer of contracts to other contractors.[73]
+
+Training centre in Mysore
+
+The Development Centre on the Mysore campus
+As the world's largest corporate university, the Infosys Global Education Centre, located on a 337-acre[74] campus in Mysore, features 400 instructors and over 200 classrooms.[75] Established in 2002, it had trained approximately 125,000 engineering graduates by June 2015.[75] The centre can accommodate and train up to 14,000 employees at any given time across various technologies.[76][77]
+
+The Infosys Leadership Institute (ILI), located in Mysore, trains approximately 4,000 trainees annually.[77] Its primary objective is to cultivate and develop senior leaders within Infosys, preparing them for both current and future executive roles.
+
+Employees
+As of 31 March 2024, Infosys employed a total of 317,240 people, commonly referred to as "Infoscions," with 39.3% of them being women.[78] In 2023, 85% of Infosys' employees were located in India.
+
+Starting mid-2015, Infosys did away with its dress code, allowing jeans and casual clothes every day. This change is noticeable because, since 2008, a formal dress code—including a tie for males twice a week—had been mandatory at the company.[79][80]
+
+CEOs
+From its establishment in 1981 until 2014, Infosys' CEOs were its founders, with N. R. Narayana Murthy leading the company for the initial 21 years. Vishal Sikka was the first external CEO, serving for approximately three years.[81] Sikka resigned in August 2017. Following his departure, UB Pravin Rao was appointed as Interim CEO and Managing Director of the company.[82] Infosys appointed Salil Parekh as Chief Executive Officer (CEO) and Managing Director (MD), effective from 2 January 2018.[83]
+
+List of CEOs
+Name	Period
+N. R. Narayana Murthy	1981 to March 2002
+Nandan Nilekani	March 2002 to April 2007
+Kris Gopalakrishnan	April 2007 to August 2011
+S. D. Shibulal	August 2011 to July 2014
+Vishal Sikka	August 2014 to August 2017
+U. B. Pravin Rao (interim)	August 2017 to December 2017[82]
+Salil Parekh	January 2018 onwards[83]
+Controversies
+Settlement of visa and tax fraud cases in the US
+In 2011, Infosys was accused of visa fraud for using B-1 (visitor) visas for work that required H-1B (work) visas. The allegations originated from an internal complaint by an American employee of Infosys, who subsequently filed a lawsuit against the company, claiming harassment and marginalization after raising the issue. Although the lawsuit was dismissed,[84] along with another similar case,[85][86][87] these allegations were brought to the attention of U.S. authorities, leading to investigations by the U.S. Department of Homeland Security and a federal grand jury.[88]
+
+In October 2013, Infosys agreed to settle the civil suit with U.S. authorities by paying $34 million. While the company did not admit guilt, it stated that it settled to avoid the complications of "prolonged litigation".[89] Infosys asserted that, "As reflected in the settlement, Infosys denies and disputes any claims of systemic visa fraud, misuse of visas for competitive advantage, or immigration abuse. Those claims are untrue and are assertions that remain unproven."[90]
+
+In December 2019, Infosys reached an $800,000 settlement with the State of California in a visa and tax fraud case. Between 2006 and 2017, nearly 500 Infosys employees were found to be working in the state on Infosys-sponsored B-1 visas instead of the required H-1B visas, enabling the company to avoid paying California payroll taxes, including unemployment insurance, disability insurance, and employment training taxes.[91][92][93][94]
+
+Malfunctioning government portals
+In 2013, technical issues emerged after Infosys took over the MCA21 portal from Tata Consultancy Services.[95][96] Similar problems arose in 2016 after a system migration and version update.[97][98]
+
+In 2020, the finance ministry identified glitches in the GSTN portal, leading to a summons for Infosys executives.[99][100] In 2022, chartered accountants and tax professionals raised concerns over technical issues with the GSTN portal.[101][102]
+
+In 2021, the newly launched Income Tax portal, developed by Infosys, encountered multiple glitches. Despite a summons for Infosys CEO Salil Parekh, the issues remained unresolved for months, forcing an extension of the tax filing deadline.[103][104] In 2022, users continued to report malfunctions and issues on the first anniversary of the portal's launch.[105][106][107]
+
+Tracking software
+It was reported in late 2013 that Infosys’ plan to install software to track the actual time staff spent on their computers caused resentment among employees.[108]
+
+See also
+List of IT consulting firms
+List of Indian IT companies
+References
+ "Not Just Narayana Murthy, Here's The Untold Story Of Infosys' Six Other Co-Founders". IndiaTimes. 12 October 2023. Retrieved 12 October 2023.
+ "Infosys appoints Salil S. Parekh as CEO and Managing Director". The Economic Times. Archived from the original on 2 December 2017. Retrieved 2 December 2015.
+ "Infosys adds 199 employees in Q4, headcount up for third consecutive quarter". Moneycontrol. Retrieved 23 July 2025.
+ "Results For The Quarter And Year Ended March 31, 2025" (PDF). BSE. Infosys. Retrieved 17 April 2025.
+ "Major events in the history of Infosys". Rediff.com Business. Archived from the original on 7 October 2017. Retrieved 7 October 2017.
+ Com, Moneycontrol. "Company History of Infosys". Moneycontrol.com. Archived from the original on 7 October 2017. Retrieved 7 October 2017.
+ "About Infosys". Infosys. Archived from the original on 27 September 2013. Retrieved 23 September 2013.
+ Bibhu Ranjan Mishra. "There's life after Infosys". Business Standard, 7 September 2013.
+ "Infosys' hardcore 80s: When the company had a hardware business". The Economic Times. 20 July 2015. Retrieved 23 July 2025.
+ "Infosys link to telegram service". The Hindu. 14 July 2013. Retrieved 23 July 2025.
+ Srikanth, Chandra R. (21 July 2021). "In 1990, there was an offer to buy us out for Rs 2 crore. Infosys has Rs 6.5 lakh crore m-cap now: NR Narayana Murthy on 1991 reforms". Moneycontrol. Retrieved 23 July 2025.
+ "Infosys Technologies Bio". in.com. Archived from the original on 22 July 2013. Retrieved 7 July 2013.
+ "Equity Shares Information". Infosys. Archived from the original on 22 June 2013. Retrieved 7 July 2013.
+ Trimble, Chris (2008). "Infosys in a Distinct Business: Finacle" (PDF). Tuck School of Business at Dartmouth College. Retrieved 23 July 2025.
+ Talgeri, Kunal N.; Bhuva, Rajiv (6 November 2013). "Infy's many faces". Fortune India. Retrieved 23 July 2025.
+ "Infosys reins in Y2K projects". Rediff. 29 March 1997. Retrieved 23 July 2025.
+ Ramesh, Jairam (29 March 1999). "Bangalore-based software firm Infosys becomes first Indian company to list on Nasdaq". India Today. Archived from the original on 10 March 2018. Retrieved 9 March 2018.
+ "Infosys to shift listing of ADS to NYSE Euronext from Nasdaq". Infosys. 30 November 2012. Archived from the original on 7 October 2017. Retrieved 7 October 2017.
+ Moorthy, Swathi (17 September 2020). "Infosys' Finacle is finally having a moment two decades after launch". Moneycontrol. Retrieved 17 August 2024.
+ "Setlabs gives Infosys services edge". The Economic Times. 26 June 2004. Retrieved 23 July 2025.
+ "IT cos enjoy revenue gains from patents". The Times of India. 1 May 2007. Retrieved 23 July 2025.
+ "Infy creates Progeon, gets $20m from Citigroup". CIOL. 16 April 2002. Retrieved 17 April 2025.
+ Menon, Ravi (20 November 2009). "Infosys Consulting eyes US buy". Business Standard. Retrieved 17 April 2025.
+ "Infosys buys Citi out of Progeon for $115mn". Business Standard. 20 April 2006. Retrieved 17 April 2025.
+ Chari, Sridhar K. (18 July 2011). "Infosys US unit ramps up hiring, investment". Mint. Retrieved 23 July 2025.
+ "Infosys to expand its U.S. operations with a new Delivery Center in Wisconsin" (PDF). Infosys.com. Archived (PDF) from the original on 1 November 2013. Retrieved 3 July 2013.
+ "Edgeverve is born". Business Standard. 17 November 2014. Archived from the original on 22 December 2015. Retrieved 11 December 2015.
+ "Finacle joins Edgeverve". Business Standard. 5 September 2015. Archived from the original on 22 December 2015. Retrieved 11 December 2015.
+ "With liquid assets worth $5.5 bn, Infosys raises start-up fund size to $500 mn". The Indian Express. 10 January 2015. Retrieved 7 August 2025.
+ Doulatramani, Chandni (16 January 2015). "Infosys CEO Vishal Sikka meets Modi; dedicates $250 mn to Innovate in India". LiveMint. Retrieved 7 August 2025.
+ "Indian tech giant Infosys says it has created a joint venture with Singapore's Temasek". CNBC. 7 September 2018. Retrieved 23 July 2025.
+ Goled, Shraddha (12 October 2023). "Infosys-Temasek extend JV collaboration by five years for growth in Southeast Asian market". Techcircle. Retrieved 23 July 2025.
+ "Infosys becomes 4th Indian company to touch $100 bn market cap". The Times of India. Retrieved 25 August 2021.
+ "Infosys realigns organisation structure". The Financial Express. 16 February 2015. Archived from the original on 19 February 2015. Retrieved 4 March 2015.
+ "Infosys Cobalt: Cloud-Based Enterprise Transformation Services". www.infosys.com. Retrieved 17 August 2024.
+ "Enhance Business Value With Digital Engineering Services | Infosys". www.infosys.com. Retrieved 17 August 2024.
+ "Management Consulting Services". www.infosys.com. Retrieved 17 September 2024.
+ "Infosys Ltd - Company Profile and News - Bloomberg Markets". www.bloomberg.com. Retrieved 17 September 2024.
+ "Infosys Reviews, Ratings & Features 2024 - Gartner Peer Insights". www.gartner.com. Retrieved 17 September 2024.
+ "Infosys Limited (INFY) Company Profile & Facts - Yahoo Finance". www.yahoo.com. Retrieved 17 September 2024.
+ "Infosys bets on cloud business with launch of Cobalt". Mint. Retrieved 23 July 2025.
+ "Infosys launches generative AI solutions". The Economic Times. Retrieved 23 July 2025.
+ "Infosys launches Aster for AI-powered marketing for business growth". Business Standard. Retrieved 17 August 2024.
+ "Infosys to buy Australian firm Expert for $22.9 m". The Hindu. 19 December 2003. Archived from the original on 21 September 2009. Retrieved 7 October 2017.
+ "Infosys acquires Gen-i's software solutions business". The Times of India. 8 June 2011. Retrieved 28 August 2024.
+ "Infosys acquires Swiss firm Lodestone for Rs. 1,925 crore". The Hindu. 10 September 2012. Archived from the original on 27 September 2013. Retrieved 22 June 2013.
+ "Infosys buys automation technology startup Panaya, deal valued at Rs 1200 crore". The Economic Times. 17 February 2015. Archived from the original on 7 October 2017. Retrieved 7 October 2017.
+ "Infosys completes Skava acquisition for $120 million". The Economic Times. 4 June 2015. Archived from the original on 7 October 2017. Retrieved 7 October 2017.
+ "Infosys completes acquisition of Noah Consulting". The Economic Times. Archived from the original on 7 February 2017. Retrieved 3 February 2017.
+ "Infosys is reaching for the sky with holistic automation strategy". Horses for Sources. 26 April 2017. Archived from the original on 20 June 2019. Retrieved 20 June 2019.
+ "Infosys completes Brilliant Basics acquisition". Money Control. 11 September 2017. Archived from the original on 7 October 2017. Retrieved 7 October 2017.
+ "Infosys Consulting buys Finnish Salesforce partner Fluido Oy for €65 million". Consultancy.eu. 17 September 2018. Archived from the original on 20 June 2019. Retrieved 20 June 2019.
+ "Wongdoody Joins Infosys". wongdoody.com. Archived from the original on 16 January 2019. Retrieved 15 January 2019.
+ Zacks, Publisher. "Infosys Ups the Ante in Mortgage Servicing With Stater Buyout". NASDAQ. Retrieved 29 September 2020.
+ Mendonca, Jochelle (11 February 2020). "Infosys to pay as much as $250 million for Simplus acquisition". The Economic Times. Retrieved 17 August 2024.
+ "Infosys to acquire US-based firm Kaleidoscope for $42 mn". The Economic Times. Retrieved 29 September 2020.
+ "Czech-based GuideVision joins consulting arm of Infosys". Consultancy.eu. Retrieved 30 September 2020.
+ Baruah, Ayushman (8 October 2020). "Infosys to acquire US-based Blue Acorn iCi for up to $125 million". Mint. Retrieved 28 August 2024.
+ "Infosys to acquire assets, onboard employees of Australia's Carter Digital". Business Standard. 13 January 2021. Retrieved 28 August 2024.
+ "Infosys to acquire German digital marketing firm Oddity for Euro 50 mn". Retrieved 22 March 2022.
+ Ishwarbharath, Sai (13 July 2022). "Infosys to acquire BASE life science for €110 million". The Economic Times. ISSN 0013-0389. Retrieved 7 December 2023.
+ "Infosys to acquire InSemi for ₹280 crore". The Times of India. 12 January 2024. Retrieved 17 April 2025.
+ "Infosys to acquire 100% stake in German firm in-tech for €450 million". CNBCTV18. 18 April 2024. Retrieved 17 August 2024.
+ "Infosys set to acquire MRE Consulting and The Missing Link in Q1 FY26". BusinessLine. 17 April 2025. Retrieved 17 April 2025.
+ "Stock Share Price | Get Quote | BSE". www.bseindia.com. Retrieved 9 May 2020.
+ Selina, Hossain (20 April 2020). "Infosys Q4 results: Profit rises 6% to Rs 4,321 crore; firm suspends guidance". The Economic Times. Retrieved 9 May 2020.
+ "Did you know who the biggest shareholder in Infosys Is?". ZeeNews, 13 May 2025.
+ "Infosys shareholdings: Find Infosys Shareholding Pattern and Ownership" (PDF). Infosys.com. Retrieved 16 August 2024.
+ About Us, Infosys.com, retrieved 17 August 2024
+ Infosys Annual Report 2023-24 (PDF), Infosys.com, retrieved 16 August 2024[dead link]
+ "Rishi Sunak faces questions over wife Akshata Murty's non-dom tax status". BBC News. 25 March 2022. Retrieved 7 April 2022.
+ "Infosys has team of less than 100 in Russia, transitioning them outside: CEO Parekh". Business Today. 26 June 2022. Retrieved 13 December 2022.
+ "Infosys still operating from Russia eight months after saying it was pulling out". The Guardian. 4 November 2022. Retrieved 13 December 2022.
+ "Infosys campus reflects commitment to a greener world". Infosys. Archived from the original on 27 September 2013. Retrieved 9 September 2013.
+ "Infosys has trained 100,000 graduates at Mysore campus". Mathrubhumi. 1 June 2012. Archived from the original on 28 September 2013. Retrieved 9 September 2013.
+ "Infosys builds world's biggest training centre in Mysore". Mysore Samachar. 9 September 2013. Archived from the original on 22 September 2013. Retrieved 9 September 2013.
+ "Infy plans biggest training centre". The Economic Times. 18 June 2004. Archived from the original on 10 November 2013. Retrieved 9 September 2013.
+ Ltd., Infosys (April 2024). "Infosys Annual Report FY23-24" (PDF). Infosys. infosys.com. Retrieved 17 August 2024.
+ "Infosys does away with dress code". Economic Times, June 1, 2015.
+ "Infosys imposes tie code". Bangalore Mirror, 7 September 2008.
+ "Infosys Names Vishal Sikka First External CEO; Chairman Murthy to Step Down". NDTV Gadgets. 12 June 2014. Archived from the original on 3 July 2015. Retrieved 2 July 2015.
+ Mandavia, Megha. "vishal-sikka-resigns-as-md-ceo-of-infosys". The Economic Times. Archived from the original on 20 August 2017. Retrieved 17 August 2017.
+ "Infosys appoints Capgemini's Salil Parekh as MD & CEO". The Times of India. Archived from the original on 3 December 2017. Retrieved 3 December 2017.
+ Preston, Julia (20 August 2012). "Judge Dismisses Infosys Suit". The New York Times. Archived from the original on 21 October 2012. Retrieved 29 October 2012.
+ "Former Employee Sues Infosys" Archived 9 July 2017 at the Wayback Machine, 9 August 2012, The Wall Street Journal
+ "'Infosys Slashed 80% of My Portfolio'" Archived 9 November 2012 at the Wayback Machine, Shayan Ghosh, 14 August 2012, Deccan Herald
+ "Infosys Says Settles Whistleblower...", 14 December 2012, The Indian Express
+ Thibodeau, Patrick (21 August 2012). "Whistleblower to Continue Helping U.S. Infosys Probe". Computerworld. Archived from the original on 2 November 2012. Retrieved 27 September 2012.
+ "Infosys to Pay $34m Fine Within 10 Days; Settlement Not to Affect Future Visas". The Times of India. 31 October 2013. Archived from the original on 3 November 2013. Retrieved 2 November 2013.
+ "Infosys Settles Visa Fraud Investigation, Pays $34m". The Times of India. 30 October 2013. Archived from the original on 2 November 2013. Retrieved 2 November 2013.
+ Phadnis, Shilpa (19 December 2019). "Infosys Pays California $800,000 to Settle Visa Case". The Times of India. Retrieved 23 October 2020.
+ "Infosys to Pay $800,000 to Settle Worker Misclassification, Tax Fraud Charges". The Times of India. 18 December 2019. Retrieved 23 October 2020.
+ "Attorney General Becerra Announces $800,000 Settlement Against Infosys for Misclassification of Foreign Workers and Tax Fraud". State of California – Department of Justice – Office of the Attorney General. 17 December 2019. Retrieved 23 October 2020.
+ "Infosys to Settle Visa Violation Case in California for $800,000". The Hindu. 18 December 2019. ISSN 0971-751X. Retrieved 23 October 2020.
+ "MCA Portal Cripples After Switching Vendor from TCS to Infosys on January 17". The Economic Times. Retrieved 10 July 2024.
+ "Infosys Earlier Drew Flak for MCA21, GSTN Portal 'Issues'". The Indian Express. 22 June 2021. Retrieved 30 October 2022.
+ "MCA21 Woes: Corporate Affairs Ministry Might Deduct Payments to Infosys". The Hindu. 26 April 2016. Retrieved 10 July 2024.
+ "Why the MCA21 Portal Is a Pain to Use". Mint. Retrieved 10 July 2024.
+ "FinMin Flags 17 'Areas of Dissatisfaction' with Infosys-Designed GSTN". Business Standard. Retrieved 10 July 2024.
+ "GST Glitches: Top Infosys Executives Get Summons from Finance Ministry". The Times of India. 31 January 2020. Retrieved 10 July 2024.
+ "Slow GST Portal: September Returns Filing Due Date May Be Extended". Zee Business. 21 October 2022. Retrieved 30 October 2022.
+ "GST at 5: Accountants Still Confront Major Issues in Filing Returns". Moneycontrol. 27 June 2022. Retrieved 30 October 2022.
+ "Finance Ministry Summons Infosys CEO Again on Tax Portal Glitches". The Hindu Businessline. Retrieved 10 July 2024.
+ "CBDT Extends Due Date for Filing of IT Returns for AY 2021-22 Till December 31". Hindustan Times. 9 September 2021. Retrieved 10 July 2024.
+ "Income Tax Portal Develops Snag on First Anniversary, Govt Asks Infosys to Look into Issue". The Economic Times. Retrieved 30 October 2022.
+ "Taxpayers Facing Issues in Accessing Income Tax Dept Portal; Infosys Reacts". HT Tech. 3 July 2022. Retrieved 30 October 2022.
+ "Infosys' I-T Portal Continues to Experience Glitch Issues Since Its Launch in June 2021". News18. 8 June 2022. Retrieved 30 October 2022.
+ Vivek Sinha. "Infosys employees upset over software meant to 'spy' on them". Hindustan Times. 26 December 2013
